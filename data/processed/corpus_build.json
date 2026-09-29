@@ -1,13 +1,13 @@
 {
   "schema_version": 3,
   "manifest_fingerprint": "2e7256712e2ac29d766606f90428b58f9bd991ec8bcdfd4b4121bd4500f90b5c",
-  "code_fingerprint": "9dbbfc98d49e2761bf92c5010aa92429032cbaa2cb8850365e683c67ce9bfe02",
+  "code_fingerprint": "727165798ece45c2639291baab3105a464e02389d3d4c634afb9b4ea543f6b4e",
   "source_review_sha256": "f50b247f09a50385dbd3391f8cee53fd91621feb8692efb94fc4ffb6703d8825",
   "chunk_count": 220,
   "page_count": 81,
   "semantic": true,
   "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
-  "model_fingerprint": "82df1d38da8f87d5ce84fcbc474c92b0c058b9cec863e9b75857648900397c4c",
+  "model_fingerprint": "ad02fc4907701f1efd8784153ceac7da363b8e5b18ca681c4a106e1b57799c38",
   "fusion": "Reciprocal rank fusion k=60; +0.04 per exact identifier; eligible candidates only",
   "artifacts": {
     "fgw_356_5901_v15_pages.json": "ffeaa9fd9b1fc039e124e3a7ad73db882565696ffcdf0f86d44d2b23aa52b5e7",
@@ -17,5 +17,5 @@
     "vectors.faiss": "64ac6572daccd48a3ae321cf4f8843e979489cedb8ac5921a4f3331248034f6d",
     "vector_mapping.json": "dd264ecd758cfd5dec5ea0d9e311dd00d7df715cb7196d72c476b814e2979c39"
   },
-  "build_seconds": 32.33909110003151
+  "build_seconds": 21.632756600156426
 }
