@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "techsolai-fg-wilson-ai"
+version = "1.0.0"
+description = "TechSolAi FG Wilson Generator Troubleshooting & Maintenance AI V1"
+requires-python = ">=3.11"
+dependencies = ["pymupdf>=1.24,<2", "rank-bm25>=0.2.2,<1", "streamlit>=1.36,<2", "sentence-transformers>=3,<7", "faiss-cpu>=1.8,<2"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[tool.setuptools.packages.find]
+include = ["src*", "app*"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

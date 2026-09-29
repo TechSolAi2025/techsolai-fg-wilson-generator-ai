@@ -1,0 +1,816 @@
+[
+  {
+    "page": 1,
+    "printed_page": null,
+    "characters": 354,
+    "images": 2,
+    "tables": 0,
+    "issues": [
+      "image_content_requires_visual_review"
+    ],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 2,
+    "printed_page": "2",
+    "characters": 25,
+    "images": 0,
+    "tables": 0,
+    "issues": [
+      "weak_text"
+    ],
+    "resolution": "visually inspected non-answer content"
+  },
+  {
+    "page": 3,
+    "printed_page": "3",
+    "characters": 8848,
+    "images": 0,
+    "tables": 0,
+    "issues": [],
+    "resolution": "visually inspected non-answer content"
+  },
+  {
+    "page": 4,
+    "printed_page": "4",
+    "characters": 10503,
+    "images": 0,
+    "tables": 0,
+    "issues": [],
+    "resolution": "visually inspected non-answer content"
+  },
+  {
+    "page": 5,
+    "printed_page": "5",
+    "characters": 6318,
+    "images": 0,
+    "tables": 0,
+    "issues": [],
+    "resolution": "visually inspected non-answer content"
+  },
+  {
+    "page": 6,
+    "printed_page": "6",
+    "characters": 2114,
+    "images": 0,
+    "tables": 0,
+    "issues": [],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 7,
+    "printed_page": "7",
+    "characters": 2365,
+    "images": 2,
+    "tables": 0,
+    "issues": [
+      "image_content_requires_visual_review"
+    ],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 8,
+    "printed_page": "8",
+    "characters": 3319,
+    "images": 0,
+    "tables": 0,
+    "issues": [],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 9,
+    "printed_page": "9",
+    "characters": 3417,
+    "images": 1,
+    "tables": 0,
+    "issues": [
+      "image_content_requires_visual_review"
+    ],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 10,
+    "printed_page": "10",
+    "characters": 2912,
+    "images": 0,
+    "tables": 0,
+    "issues": [],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 11,
+    "printed_page": "11",
+    "characters": 3619,
+    "images": 0,
+    "tables": 0,
+    "issues": [],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 12,
+    "printed_page": "12",
+    "characters": 3616,
+    "images": 1,
+    "tables": 0,
+    "issues": [
+      "image_content_requires_visual_review"
+    ],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 13,
+    "printed_page": "13",
+    "characters": 2617,
+    "images": 3,
+    "tables": 1,
+    "issues": [
+      "image_content_requires_visual_review"
+    ],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 14,
+    "printed_page": "14",
+    "characters": 2277,
+    "images": 2,
+    "tables": 0,
+    "issues": [
+      "image_content_requires_visual_review"
+    ],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 15,
+    "printed_page": "15",
+    "characters": 1472,
+    "images": 0,
+    "tables": 0,
+    "issues": [],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 16,
+    "printed_page": "16",
+    "characters": 1033,
+    "images": 7,
+    "tables": 0,
+    "issues": [
+      "image_content_requires_visual_review"
+    ],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 17,
+    "printed_page": "17",
+    "characters": 295,
+    "images": 18,
+    "tables": 0,
+    "issues": [
+      "image_content_requires_visual_review"
+    ],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 18,
+    "printed_page": "18",
+    "characters": 3970,
+    "images": 0,
+    "tables": 1,
+    "issues": [],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 19,
+    "printed_page": "19",
+    "characters": 2704,
+    "images": 2,
+    "tables": 0,
+    "issues": [
+      "image_content_requires_visual_review"
+    ],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 20,
+    "printed_page": "20",
+    "characters": 2148,
+    "images": 1,
+    "tables": 1,
+    "issues": [
+      "image_content_requires_visual_review"
+    ],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 21,
+    "printed_page": "21",
+    "characters": 2219,
+    "images": 1,
+    "tables": 1,
+    "issues": [
+      "image_content_requires_visual_review"
+    ],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 22,
+    "printed_page": "22",
+    "characters": 719,
+    "images": 13,
+    "tables": 0,
+    "issues": [
+      "image_content_requires_visual_review"
+    ],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 23,
+    "printed_page": "23",
+    "characters": 1359,
+    "images": 0,
+    "tables": 0,
+    "issues": [],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 24,
+    "printed_page": "24",
+    "characters": 1581,
+    "images": 1,
+    "tables": 0,
+    "issues": [
+      "image_content_requires_visual_review"
+    ],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 25,
+    "printed_page": "25",
+    "characters": 3310,
+    "images": 5,
+    "tables": 0,
+    "issues": [
+      "image_content_requires_visual_review"
+    ],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 26,
+    "printed_page": "26",
+    "characters": 2834,
+    "images": 0,
+    "tables": 0,
+    "issues": [],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 27,
+    "printed_page": "27",
+    "characters": 1552,
+    "images": 4,
+    "tables": 0,
+    "issues": [
+      "image_content_requires_visual_review"
+    ],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 28,
+    "printed_page": "28",
+    "characters": 1803,
+    "images": 0,
+    "tables": 0,
+    "issues": [],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 29,
+    "printed_page": "29",
+    "characters": 733,
+    "images": 4,
+    "tables": 0,
+    "issues": [
+      "image_content_requires_visual_review"
+    ],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 30,
+    "printed_page": "30",
+    "characters": 136,
+    "images": 0,
+    "tables": 0,
+    "issues": [],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 31,
+    "printed_page": "31",
+    "characters": 1579,
+    "images": 0,
+    "tables": 2,
+    "issues": [],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 32,
+    "printed_page": "32",
+    "characters": 2404,
+    "images": 0,
+    "tables": 0,
+    "issues": [],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 33,
+    "printed_page": "33",
+    "characters": 2926,
+    "images": 0,
+    "tables": 0,
+    "issues": [],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 34,
+    "printed_page": "34",
+    "characters": 3989,
+    "images": 0,
+    "tables": 1,
+    "issues": [],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 35,
+    "printed_page": "35",
+    "characters": 1744,
+    "images": 0,
+    "tables": 1,
+    "issues": [],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 36,
+    "printed_page": "36",
+    "characters": 3774,
+    "images": 0,
+    "tables": 0,
+    "issues": [],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 37,
+    "printed_page": "37",
+    "characters": 1677,
+    "images": 0,
+    "tables": 0,
+    "issues": [],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 38,
+    "printed_page": "38",
+    "characters": 788,
+    "images": 2,
+    "tables": 0,
+    "issues": [
+      "image_content_requires_visual_review"
+    ],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 39,
+    "printed_page": "39",
+    "characters": 357,
+    "images": 3,
+    "tables": 0,
+    "issues": [
+      "image_content_requires_visual_review"
+    ],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 40,
+    "printed_page": "40",
+    "characters": 1835,
+    "images": 1,
+    "tables": 0,
+    "issues": [
+      "image_content_requires_visual_review"
+    ],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 41,
+    "printed_page": "41",
+    "characters": 4236,
+    "images": 0,
+    "tables": 0,
+    "issues": [],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 42,
+    "printed_page": "42",
+    "characters": 3889,
+    "images": 0,
+    "tables": 0,
+    "issues": [],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 43,
+    "printed_page": "43",
+    "characters": 4569,
+    "images": 0,
+    "tables": 0,
+    "issues": [],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 44,
+    "printed_page": "44",
+    "characters": 2062,
+    "images": 0,
+    "tables": 0,
+    "issues": [],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 45,
+    "printed_page": "45",
+    "characters": 2204,
+    "images": 0,
+    "tables": 1,
+    "issues": [],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 46,
+    "printed_page": "46",
+    "characters": 3187,
+    "images": 1,
+    "tables": 0,
+    "issues": [
+      "image_content_requires_visual_review"
+    ],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 47,
+    "printed_page": "47",
+    "characters": 2722,
+    "images": 0,
+    "tables": 0,
+    "issues": [],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 48,
+    "printed_page": "48",
+    "characters": 3006,
+    "images": 1,
+    "tables": 0,
+    "issues": [
+      "image_content_requires_visual_review"
+    ],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 49,
+    "printed_page": "49",
+    "characters": 4791,
+    "images": 0,
+    "tables": 0,
+    "issues": [],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 50,
+    "printed_page": "50",
+    "characters": 4236,
+    "images": 0,
+    "tables": 0,
+    "issues": [],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 51,
+    "printed_page": "51",
+    "characters": 3082,
+    "images": 0,
+    "tables": 0,
+    "issues": [],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 52,
+    "printed_page": "52",
+    "characters": 2705,
+    "images": 0,
+    "tables": 1,
+    "issues": [],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 53,
+    "printed_page": "53",
+    "characters": 2169,
+    "images": 1,
+    "tables": 0,
+    "issues": [
+      "image_content_requires_visual_review"
+    ],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 54,
+    "printed_page": "54",
+    "characters": 3141,
+    "images": 0,
+    "tables": 0,
+    "issues": [],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 55,
+    "printed_page": "55",
+    "characters": 169,
+    "images": 2,
+    "tables": 0,
+    "issues": [
+      "image_content_requires_visual_review",
+      "image_table_missing_from_text_layer"
+    ],
+    "resolution": "hash-bound visual transcription"
+  },
+  {
+    "page": 56,
+    "printed_page": "56",
+    "characters": 27,
+    "images": 1,
+    "tables": 0,
+    "issues": [
+      "weak_text",
+      "image_content_requires_visual_review",
+      "image_table_missing_from_text_layer"
+    ],
+    "resolution": "hash-bound visual transcription"
+  },
+  {
+    "page": 57,
+    "printed_page": "57",
+    "characters": 1377,
+    "images": 9,
+    "tables": 1,
+    "issues": [
+      "image_content_requires_visual_review"
+    ],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 58,
+    "printed_page": "58",
+    "characters": 2313,
+    "images": 5,
+    "tables": 0,
+    "issues": [
+      "image_content_requires_visual_review"
+    ],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 59,
+    "printed_page": "59",
+    "characters": 786,
+    "images": 7,
+    "tables": 0,
+    "issues": [
+      "image_content_requires_visual_review"
+    ],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 60,
+    "printed_page": "60",
+    "characters": 3127,
+    "images": 6,
+    "tables": 0,
+    "issues": [
+      "image_content_requires_visual_review"
+    ],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 61,
+    "printed_page": "61",
+    "characters": 2719,
+    "images": 6,
+    "tables": 0,
+    "issues": [
+      "image_content_requires_visual_review"
+    ],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 62,
+    "printed_page": "62",
+    "characters": 892,
+    "images": 2,
+    "tables": 0,
+    "issues": [
+      "image_content_requires_visual_review"
+    ],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 63,
+    "printed_page": "63",
+    "characters": 895,
+    "images": 11,
+    "tables": 0,
+    "issues": [
+      "image_content_requires_visual_review"
+    ],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 64,
+    "printed_page": "64",
+    "characters": 3503,
+    "images": 1,
+    "tables": 0,
+    "issues": [
+      "image_content_requires_visual_review"
+    ],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 65,
+    "printed_page": "65",
+    "characters": 2984,
+    "images": 0,
+    "tables": 0,
+    "issues": [],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 66,
+    "printed_page": "66",
+    "characters": 1929,
+    "images": 0,
+    "tables": 0,
+    "issues": [],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 67,
+    "printed_page": "67",
+    "characters": 619,
+    "images": 2,
+    "tables": 0,
+    "issues": [
+      "image_content_requires_visual_review"
+    ],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 68,
+    "printed_page": "68",
+    "characters": 1659,
+    "images": 0,
+    "tables": 0,
+    "issues": [],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 69,
+    "printed_page": "69",
+    "characters": 3248,
+    "images": 0,
+    "tables": 0,
+    "issues": [],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 70,
+    "printed_page": "70",
+    "characters": 3435,
+    "images": 0,
+    "tables": 0,
+    "issues": [],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 71,
+    "printed_page": "71",
+    "characters": 3951,
+    "images": 1,
+    "tables": 0,
+    "issues": [
+      "image_content_requires_visual_review"
+    ],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 72,
+    "printed_page": "72",
+    "characters": 980,
+    "images": 2,
+    "tables": 0,
+    "issues": [
+      "image_content_requires_visual_review"
+    ],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 73,
+    "printed_page": "73",
+    "characters": 603,
+    "images": 0,
+    "tables": 0,
+    "issues": [],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 74,
+    "printed_page": "74",
+    "characters": 3507,
+    "images": 0,
+    "tables": 0,
+    "issues": [],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 75,
+    "printed_page": "75",
+    "characters": 4545,
+    "images": 0,
+    "tables": 0,
+    "issues": [],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 76,
+    "printed_page": "76",
+    "characters": 2921,
+    "images": 0,
+    "tables": 0,
+    "issues": [],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 77,
+    "printed_page": "77",
+    "characters": 1975,
+    "images": 1,
+    "tables": 0,
+    "issues": [
+      "image_content_requires_visual_review"
+    ],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 78,
+    "printed_page": "78",
+    "characters": 2882,
+    "images": 2,
+    "tables": 0,
+    "issues": [
+      "image_content_requires_visual_review"
+    ],
+    "resolution": "text and page layout inspected; see section exclusions"
+  },
+  {
+    "page": 79,
+    "printed_page": "79",
+    "characters": 33,
+    "images": 0,
+    "tables": 0,
+    "issues": [
+      "weak_text"
+    ],
+    "resolution": "visually inspected non-answer content"
+  },
+  {
+    "page": 80,
+    "printed_page": "80",
+    "characters": 33,
+    "images": 0,
+    "tables": 0,
+    "issues": [
+      "weak_text"
+    ],
+    "resolution": "visually inspected non-answer content"
+  },
+  {
+    "page": 81,
+    "printed_page": "81",
+    "characters": 27,
+    "images": 0,
+    "tables": 0,
+    "issues": [
+      "weak_text"
+    ],
+    "resolution": "visually inspected non-answer content"
+  }
+]

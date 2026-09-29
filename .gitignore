@@ -1,0 +1,43 @@
+﻿# Python environments
+.venv/
+.deps/
+venv/
+env/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local Streamlit secrets
+.streamlit/secrets.toml
+
+# Hugging Face duplicate cache
+data/models/hub/
+
+# Temporary / generated inspection images
+data/processed/page_*.png
+data/processed/rc2_page_*.png
+data/processed/contact_*.png
+
+# Local logs
+*.log
+
+# Temporary Python files
+*.tmp
+*.bak
+
+# Historical / audit exports not needed by the live app
+exports/
+
+# Test caches / coverage
+.coverage
+htmlcov/

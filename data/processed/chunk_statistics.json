@@ -1,0 +1,31 @@
+{
+  "total": 220,
+  "categories": {
+    "general": 46,
+    "safety": 18,
+    "exhaust": 3,
+    "cooling-system": 3,
+    "lubrication": 3,
+    "electrical-checks": 4,
+    "battery-charging": 6,
+    "specifications": 13,
+    "generator-identification": 8,
+    "installation-handling": 15,
+    "storage": 4,
+    "fault-finding": 51,
+    "control-panel-operation": 16,
+    "pre-start-inspections": 1,
+    "starting-stopping": 5,
+    "alarms-shutdowns": 7,
+    "fuel-system": 9,
+    "qualified-service-escalation": 1,
+    "operating-procedures": 2,
+    "preventive-maintenance": 3,
+    "service-intervals": 1,
+    "alternator": 1
+  },
+  "quarantined": 43,
+  "over_2600_characters": 14,
+  "max_characters": 7978,
+  "unique_ids": 220
+}

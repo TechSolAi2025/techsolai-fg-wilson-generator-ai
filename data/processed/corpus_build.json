@@ -1,0 +1,21 @@
+{
+  "schema_version": 3,
+  "manifest_fingerprint": "2e7256712e2ac29d766606f90428b58f9bd991ec8bcdfd4b4121bd4500f90b5c",
+  "code_fingerprint": "9dbbfc98d49e2761bf92c5010aa92429032cbaa2cb8850365e683c67ce9bfe02",
+  "source_review_sha256": "f50b247f09a50385dbd3391f8cee53fd91621feb8692efb94fc4ffb6703d8825",
+  "chunk_count": 220,
+  "page_count": 81,
+  "semantic": true,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "model_fingerprint": "82df1d38da8f87d5ce84fcbc474c92b0c058b9cec863e9b75857648900397c4c",
+  "fusion": "Reciprocal rank fusion k=60; +0.04 per exact identifier; eligible candidates only",
+  "artifacts": {
+    "fgw_356_5901_v15_pages.json": "ffeaa9fd9b1fc039e124e3a7ad73db882565696ffcdf0f86d44d2b23aa52b5e7",
+    "chunks.json": "c077a4df20e0298a12a686d0a901e4d7a0dd5d4ebeb9b720b78cad9dcce1003f",
+    "extraction_quality.json": "8b726a24b78533a5455c40d8c0a9e0928ac498c21afa6fea41d21f6ed85ac813",
+    "chunk_statistics.json": "b5b98d452825f1d90919dd634a8096fbce2a8126e91a3e869abcbd1685e268d1",
+    "vectors.faiss": "64ac6572daccd48a3ae321cf4f8843e979489cedb8ac5921a4f3331248034f6d",
+    "vector_mapping.json": "dd264ecd758cfd5dec5ea0d9e311dd00d7df715cb7196d72c476b814e2979c39"
+  },
+  "build_seconds": 32.33909110003151
+}

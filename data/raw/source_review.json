@@ -1,0 +1,359 @@
+{
+  "source_sha256": "ddb5a113826d97cb24456117cd1964223dc3cbb78ed1dc9cc8571b4ed1b029e5",
+  "reviewer": "Codex visual and text audit, 2026-09-10; independent human service review pending",
+  "non_content_pages": [
+    2,
+    3,
+    4,
+    5,
+    79,
+    80,
+    81
+  ],
+  "quarantined_sections": {
+    "2.11": "First-aid content is outside generator technical answering scope.",
+    "3.1": "Typical rating plate illustration must not become actual model specifications.",
+    "3.3": "Example declaration; placeholders are not actual model applicability.",
+    "3.4": "Example declaration; placeholders are not actual model applicability.",
+    "4.3": "Lifting instructions require diagrams and qualified site-specific review.",
+    "4.3.1": "Lifting table depends on diagrams.",
+    "4.3.2": "Lifting table depends on diagrams.",
+    "5.2.4": "Diagram extraction order is not procedural order; use complete section 5.2.6.",
+    "5.5.2": "Button icons absent from text layer.",
+    "5.5.3": "Button icons absent from text layer.",
+    "5.5.5": "Button icons absent from text layer.",
+    "5.5.6": "Button icons absent from text layer.",
+    "5.5.8": "Button icons absent from text layer.",
+    "6.3.2": "Printed oil ash value may be erroneous; requires dealer clarification, never silently correct.",
+    "6.5": "Emissions override/legal activation outside V1.",
+    "8.1.2": "Mixed level descriptions and erroneous section 9.1 reference need clarification."
+  },
+  "controller_sections": {
+    "5.2": [
+      "PowerWizard 1.1",
+      "PowerWizard 1.1+",
+      "PowerWizard 2.1"
+    ],
+    "5.2.8": [
+      "PowerWizard 2.1"
+    ],
+    "5.2.9": [
+      "PowerWizard 2.1"
+    ],
+    "5.3": [
+      "PowerWizard 2.1+",
+      "PowerWizard 4.1"
+    ],
+    "5.3.1": [
+      "PowerWizard 2.1+"
+    ],
+    "5.3.2": [
+      "PowerWizard 4.1"
+    ],
+    "5.4": [
+      "DeepSea (model unspecified)"
+    ],
+    "5.5": [
+      "FG100"
+    ]
+  },
+  "image_tables": {
+    "55": {
+      "method": "Manual transcription of rendered PDF; original capitalization and wording retained except line wrapping and slash joining shared symptom cell.",
+      "section": "5.4.5 Fault Finding",
+      "headers": [
+        "Symptom",
+        "Possible Remedy"
+      ],
+      "rows": [
+        [
+          "Unit is inoperative / Read/Write configuration does not operate",
+          "Check the battery and wiring to the unit. Check the DC supply.\nCheck the DC fuse."
+        ],
+        [
+          "Unit shuts down",
+          "Check DC supply voltage is not above 35 Volts or below 9 Volts\nCheck the operating temperature is not above 70°C. Check the DC fuse."
+        ],
+        [
+          "Fail to Start is activated after pre-set number of attempts to start",
+          "Check wiring of fuel solenoid. Check fuel. Check battery supply.\nCheck battery supply is present on the Fuel output of the module.\nCheck the speed-sensing signal is present on the module’s inputs.\nRefer to engine manual."
+        ],
+        [
+          "Continuous starting of generator when in the Auto Mode",
+          "Check that there is no signal present on the “Remote Start” input.\nCheck configured polarity is correct\nCheck the mains supply is available and within configured limits"
+        ],
+        [
+          "Generator fails to start on receipt of Remote Start signal.",
+          "Check Start Delay timer has timed out.\nCheck signal is on “Remote Start” input. Confirm correct configuration of input is configured to be used as “Remote Start”.\nCheck that the oil pressure switch or sensor is indicating low oil pressure to the controller. Depending upon configuration, then set will not start if oil pressure is not low."
+        ],
+        [
+          "Pre-heat inoperative",
+          "Check wiring to engine heater plugs. Check battery supply. Check battery supply is present on the Pre-heat output of module. Check pre-heat configuration is correct."
+        ],
+        [
+          "Starter motor inoperative",
+          "Check wiring to starter solenoid. Check battery supply. Check battery supply is present on the Starter output of module. Ensure oil pressure switch or sensor is indicating the “low oil pressure” state to the controller."
+        ],
+        [
+          "Engine runs but generator will not take load",
+          "Check Warm up timer has timed out.\nEnsure generator load inhibit signal is not present on the module inputs.\nCheck connections to the switching device.\nNote that the set will not take load in manual mode unless there is an active load signal."
+        ],
+        [
+          "Incorrect reading on Engine gauges / Fail to stop alarm when engine is at rest",
+          "Check engine is operating correctly.\nCheck that sensor is compatible with the module and that the module configuration is suited to the sensor."
+        ]
+      ],
+      "approved": true,
+      "context": "We strongly recommend you contact your local FG Wilson Dealer for guidance on all issues or consult a trained technician."
+    },
+    "56": {
+      "method": "Manual transcription of rendered PDF; original capitalization and wording retained except line wrapping and slash joining shared symptom cell.",
+      "section": "5.4.5 Fault Finding",
+      "headers": [
+        "Symptom",
+        "Possible Remedy"
+      ],
+      "rows": [
+        [
+          "Low oil Pressure fault operates after engine has fired",
+          "Check engine oil pressure. Check oil pressure switch/sensor and wiring. Check configured polarity (if applicable) is correct (i.e. Normally Open or Normally Closed) or that sensor is compatible with the module and is correctly configured."
+        ],
+        [
+          "High engine temperature fault operates after engine has fired.",
+          "Check engine temperature. Check switch/sensor and wiring. Check configured polarity (if applicable) is correct (i.e. Normally Open or Normally Closed) or that sensor is compatible with the module."
+        ],
+        [
+          "Shutdown fault operates",
+          "Check relevant switch and wiring of fault indicated on LCD display.\nCheck configuration of input."
+        ],
+        [
+          "Electrical Trip fault operates",
+          "Check relevant switch and wiring of fault indicated on LCD display.\nCheck configuration of input."
+        ],
+        [
+          "Warning fault operates",
+          "Check relevant switch and wiring of fault indicated on LCD display.\nCheck configuration of input."
+        ],
+        [
+          "CAN ECU WARNING / CAN ECU SHUTDOWN",
+          "This indicates a fault condition detected by the engine ECU and transmitted to the DSE controller."
+        ],
+        [
+          "CAN DATA FAIL",
+          "Indicates failure of the CAN data link to the engine ECU.\nCheck all wiring and termination resistors (if required)."
+        ],
+        [
+          "Incorrect reading on Engine gauges / Fail to stop alarm when engine is at rest",
+          "Check engine is operating correctly. Check sensor and wiring paying particular attention to the wiring to terminal 10\nCheck that sensor is compatible with the module and that the module configuration is suited to the sensor."
+        ]
+      ],
+      "approved": true,
+      "context": "We strongly recommend you contact your local FG Wilson Dealer for guidance on all issues or consult a trained technician."
+    }
+  },
+  "recoveries": [
+    {
+      "original_chunk_id": "fgw_356_5901_v15:e5f3492a0c8d5d20043e50b0",
+      "approved": true,
+      "method": "PDF visual reconstruction: icon labels and reading order; source wording retained",
+      "pdf_pages": [
+        40
+      ],
+      "text": "5.2.4 Fault / Alarm Reset Process\n\n1. If either of these indication lamps are flashing or solid there is a warning or shurdown\n\n2. Press STOP Key\n\n3. Press and hold “Alarm Acknowledge“ key for 3 seconds\n\n4. Press ENTER Key to clear all Warnings and / or Shutdowns\nPress ESCAPE Key to cancel"
+    },
+    {
+      "original_chunk_id": "fgw_356_5901_v15:df9243bc73c9a52327bcdc28",
+      "approved": true,
+      "method": "PDF visual reconstruction: icon labels and reading order; source wording retained",
+      "pdf_pages": [
+        57
+      ],
+      "text": "5.5.2 Pushbutton Functions\nButton: RUN (green I)\nFunction: RUN mode - the generator sets runs off load. If pressed and held for 5 seconds this\nwill select test mode. In test mode the genset runs and takes the load"
+    },
+    {
+      "original_chunk_id": "fgw_356_5901_v15:ebd955c199b05251f0ea63bc",
+      "approved": true,
+      "method": "PDF visual reconstruction: icon labels and reading order; source wording retained",
+      "pdf_pages": [
+        57
+      ],
+      "text": "5.5.2 Pushbutton Functions\nButton: AUTO (A)\nFunction: AUTO mode - the genset runs on remote start signal status"
+    },
+    {
+      "original_chunk_id": "fgw_356_5901_v15:6d238eb775bf95dcb7b34bc0",
+      "approved": true,
+      "method": "PDF visual reconstruction: icon labels and reading order; source wording retained",
+      "pdf_pages": [
+        57
+      ],
+      "text": "5.5.2 Pushbutton Functions\nButton: STOP / OFF (red O)\nFunction: OFF mode - the genset stops running"
+    },
+    {
+      "original_chunk_id": "fgw_356_5901_v15:d5421c9a50d15d3bade20d25",
+      "approved": true,
+      "method": "PDF visual reconstruction: icon labels and reading order; source wording retained",
+      "pdf_pages": [
+        57
+      ],
+      "text": "5.5.2 Pushbutton Functions\nButton: UP arrow / LAMP TEST\nFunction: Selects next screen group / LAMP TEST when pressed"
+    },
+    {
+      "original_chunk_id": "fgw_356_5901_v15:a708f4036423392bdc14351a",
+      "approved": true,
+      "method": "PDF visual reconstruction: icon labels and reading order; source wording retained",
+      "pdf_pages": [
+        57
+      ],
+      "text": "5.5.2 Pushbutton Functions\nButton: DOWN arrow / ALARM MUTE\nFunction: Selects next display screen in the same group / Resets the ALARM RELAY"
+    },
+    {
+      "original_chunk_id": "fgw_356_5901_v15:3bcae1050588d79bd6fab96a",
+      "approved": true,
+      "method": "PDF visual reconstruction: icon labels and reading order; source wording retained",
+      "pdf_pages": [
+        57
+      ],
+      "text": "5.5.2 Pushbutton Functions\nButton: STOP / OFF and UP arrow / LAMP TEST\nFunction: When pressed and held for 5 seconds resets SERVICE REQUEST counter"
+    },
+    {
+      "original_chunk_id": "fgw_356_5901_v15:fe7edd30f8df85411104f775",
+      "approved": true,
+      "method": "PDF visual reconstruction: icon labels and reading order; source wording retained",
+      "pdf_pages": [
+        58
+      ],
+      "text": "5.5.3 Display Screen Organization\n\nThe unit measures a large number of electrical and engine parameters.\n\nThe display of the parameters is organized as PARAMETER GROUPS and items in a group.\n\nNavigation between different groups are made with UP arrow / LAMP TEST button.\n\nPressing the UP arrow / LAMP TEST button will cause the display to switch to the next group of parameters. After the last group the display will return back to the first group.\n\nNavigation inside a group is made with DOWN arrow / ALARM MUTE button.\n\nPressing the DOWN arrow / ALARM MUTE button will cause the display to switch to the next parameter in the same group. After the last parameter the display will switch to the first parameter.\n\nBelow is a basic list of parameter groups:\n\n•\t GENSET: Genset voltages, currents, kW, kVA, kVAr, pf .\n\n•\t ENGINE: Analog sender readings, rpm, battery voltage, engine hours.\n\n•\t J1939: Will only be available if the J1939 port is enabled. The unit is able to display a long list of parameters, under the \ncondition that the engine sends this information. A complete list of available readings is found in section covering J1939 \nCANBUS ENGINE SUPPORT.\n\n•\t ALARMS: This group displays all existing alarms, one screen per alarm. When there are no more alarms to display the \nfollowing will show “No Record”.\n\n•\t GSM MODEM: Signal strength, counters, communication status, IP addresses.\n\n•\t ETHERNET: Ethernet connection status, counters, IP addresses etc...\n\n•\t STATUS & GENERAL INFO: This group includes various parameters like genset status, service counters, firmware version"
+    },
+    {
+      "original_chunk_id": "fgw_356_5901_v15:06ef12003fa05a2e553fe766",
+      "approved": true,
+      "method": "PDF visual reconstruction: icon labels and reading order; source wording retained",
+      "pdf_pages": [
+        59
+      ],
+      "text": "5.5.5 Displaying Event Logs\n\nEvent logs are displayed within the program mode menu. This is designed in order to reduce the interference of event logs with \nother measurement screens. To enter the event display, press together the UP arrow / LAMP TEST and DOWN arrow / ALARM MUTE buttons for 5 seconds. When the program mode \nis entered, the password entry screen will be displayed.\n\nSkip the password entry screen by pressing the AUTO button 4 times. The screen below left will come.\n\nPress again the AUTO button. The last stored event will open, as shown below.  The first page will display the event number, event \ntype, fault type and date-time information.\n\nWhen displaying event logs:\n\nUP arrow / LAMP TEST button will display the next information in the same event\n\nDOWN arrow / ALARM MUTE button will display the same information of the next event."
+    },
+    {
+      "original_chunk_id": "fgw_356_5901_v15:7f72bdd29a96399e00dc85d8",
+      "approved": true,
+      "method": "PDF visual reconstruction: icon labels and reading order; source wording retained",
+      "pdf_pages": [
+        60,
+        61
+      ],
+      "text": "5.5.6  Operation Of The Unit\n\nQuick start guide\n\n•\t STOPPING THE ENGINE: Press the STOP (red O) button\n\n•\t STARTING THE ENGINE: Press the RUN (green I) button\n\n•\t LOAD TEST: Press and hold the RUN (green I) button for 5 seconds. The genset will run and take the load.\n\n•\t AUTOMATIC OPERATION: Press AUTO (A) button.\n\nI\nMode can be changed anytime without negative effect. Changing the operation mode while the generating set is \nrunning will result in a behavior suitable for the new operation mode.\n\nStop mode\n\nThe STOP mode is entered by pressing the STOP (red O) button. In this mode, the genset will be in a rest state.\n\nWhen STOP mode is selected, if the genset is running under load, then it will be immediately unloaded. The engine will continue \nto run during Cooldown Timer and will stop afterwards.\n\nIf the STOP button is pressed again, then the engine will immediately stop.\n\nIf the engine fails to stop after the expiration of Stop Timer then a Fail to Stop warning will occur.\n\nIf a Remote Start signal arrives in STOP mode, the genset will not start until AUTO mode is selected.\n\nAuto mode\n\nThe AUTO mode is entered by pressing the AUTO (A) button.\n\nThe controller will constantly monitor the REMOTE START signal availability. It will run the engine when the remote start signal \narrives.\n\nI\n If a panel lock input is definedand signal is applied then mode change will not occur. However display navigation \nbuttons are still enabledand paramaters may be visualised\n\nWhen REMOTE START signal arrives then an engine start sequence begins:\n\n•\t The unit waits during Engine Start Delay for skipping short mains failures. If the mains is restored before the end of this \ntimer, the genset will not start.\n\n•\t The unit turns on the fuel and preheat glow plugs (if any) and waits for preheat timer.\n\n•\t The engine will be cranked for programmed times during crank timer. When the engine fires, the crank relay will be \nimmediately deactivated. See section Crank Cutting for more details.\n\n•\t The engine will run at idle speed during Idle Speed Timer.\n\n•\t -The engine will run unloaded during engine heating timer.\n\n•\t -If alternator phase voltages, frequency and phase order are correct, the unit will wait for the generator contactor period \nand the generator contactor will be energized.\n\nWhen REMOTE START signal goes off then an engine stop sequence begins:\n\n•\t The engine will continue to run for the mains waiting period to allow mains voltages to stabilize.\n\n•\t Then the generator contactor is deactivated and the mains contactor will be energized after mains contactor timer.\n\n•\t If a cooldown period is given, the generator will continue to run during the cooldown period.\n\n•\t Before the end of cooldown, the unit will reduce the engine speed to idle speed.\n\n•\t At the end of cooldown, the fuel solenoid will be de-energized, the stop solenoid will be energized for Stop Solenoid timer \nand the diesel will stop.\n\n•\t The unit will be ready for the next mains failure.\n\n•\t If a panel lock input is defined and signal is applied, then mode change will not occur. However display navigation buttons \nare still enabled and parameters may be visualized.\n\nRun mode, manual control\n\nThe RUN mode is entered by pressing the RUN (green I) button. When the RUN mode is selected, the engine will be started regardless of \nthe REMOTE START signal.\n\nThe starting sequence is as described below:\n\n•\t The unit turns on the fuel and preheat glow plugs (if any) and waits for preheat timer.\n\n•\t The engine will be cranked for programmed times during crank timer. When the engine fires, the crank relay will be \nimmediately deactivated. See section Crank Cutting for more details.\n\n•\t The engine will run at idle speed during Idle Speed Timer.\n\n•\t The engine will run unloaded until another mode is selected..\n\n•\t The load can be transferred to the genset by selecting TEST mode.\n\nIn order to stop the engine press STOP (red O) button or select another mode of operation.\n\nTest mode\n\nThe TEST mode is entered by holding pressed the RUN (green I) button for 5 seconds. The TEST mode is used in order to test the genset \nunder load. Once this mode is selected, the engine will run as described in the RUN mode, regardless of the REMOTE START signal \nand the load will be transferred to the genset. The genset will feed the load indefinitely unless another mode is selected."
+    }
+  ],
+  "recovery_limitations": [
+    "Visual reconstruction is an automated assistant review, not independent technician approval.",
+    "Icon descriptions name controls shown on pages 57?61, not additional operating instructions.",
+    "References to Crank Cutting and J1939 CANBUS ENGINE SUPPORT are not present as complete service sections; no missing content is supplied.",
+    "Programming, factory reset, lifting diagrams, oil chemical limits and battery fluid ambiguity remain excluded."
+  ],
+  "table_continuation_headers": {
+    "35": [
+      "System or Component Name",
+      "Limiting Condition",
+      "Criteria for Action",
+      "Required Action"
+    ]
+  },
+  "table_groups": [
+    {
+      "section": "2.10 Sound Level Information",
+      "parts": [
+        {
+          "page": 13,
+          "table": 0,
+          "header_row": 1,
+          "merged_cells": [
+            {
+              "column": 0,
+              "start": 2,
+              "end": 6
+            }
+          ]
+        }
+      ],
+      "expected_rows": 5,
+      "role": "measurement",
+      "correct_headers": true,
+      "approved": true,
+      "basis": "Source PDF text and rendered table boundaries reviewed for RC5; structural approval only, independent technician validation pending."
+    },
+    {
+      "section": "4.6.2 Critical Failures",
+      "parts": [
+        {
+          "page": 34,
+          "table": 0
+        },
+        {
+          "page": 35,
+          "table": 0,
+          "continuation": true
+        }
+      ],
+      "expected_rows": 12,
+      "role": "diagnostic",
+      "approved": true,
+      "basis": "Source PDF text and rendered table boundaries reviewed for RC5; structural approval only, independent technician validation pending."
+    },
+    {
+      "section": "5.2.11 Trouble Shooting Guide for PowerWizard",
+      "parts": [
+        {
+          "page": 45,
+          "table": 0
+        }
+      ],
+      "expected_rows": 10,
+      "role": "diagnostic",
+      "approved": true,
+      "basis": "Source PDF text and rendered table boundaries reviewed for RC5; structural approval only, independent technician validation pending."
+    },
+    {
+      "section": "5.3.8 Trouble Shooting Guide for PowerWizard",
+      "parts": [
+        {
+          "page": 52,
+          "table": 0
+        }
+      ],
+      "expected_rows": 10,
+      "role": "diagnostic",
+      "approved": true,
+      "basis": "Source PDF text and rendered table boundaries reviewed for RC5; structural approval only, independent technician validation pending."
+    },
+    {
+      "section": "5.4.5 Fault Finding",
+      "parts": [
+        {
+          "page": 55,
+          "image": true
+        },
+        {
+          "page": 56,
+          "image": true
+        }
+      ],
+      "expected_rows": 17,
+      "role": "diagnostic",
+      "approved": true,
+      "basis": "Source PDF text and rendered table boundaries reviewed for RC5; structural approval only, independent technician validation pending."
+    },
+    {
+      "section": "5.5.2 Pushbutton Functions",
+      "parts": [
+        {
+          "page": 57,
+          "table": 0
+        }
+      ],
+      "expected_rows": 8,
+      "role": "control",
+      "approved": true,
+      "basis": "Source PDF text and rendered table boundaries reviewed for RC5; structural approval only, independent technician validation pending."
+    }
+  ]
+}

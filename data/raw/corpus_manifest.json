@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "documents": [
+    {
+      "id": "fgw_356_5901_v15",
+      "filename": "FG Wilson Generator Set  Operator & Maintenance  Instruction Manual.pdf",
+      "sha256": "ddb5a113826d97cb24456117cd1964223dc3cbb78ed1dc9cc8571b4ed1b029e5",
+      "title": "FG Wilson Generator Set Operator & Maintenance Instruction Manual",
+      "manufacturer": "FG Wilson",
+      "legal_manufacturer": "Caterpillar (NI) Limited (declarations on pages 20\u201321)",
+      "document_number": "356-5901(GB)",
+      "revision": "V15 10/21",
+      "publication_date": "2021-10",
+      "language": "English",
+      "page_count": 81,
+      "printed_numbering": "Cover unnumbered; PDF pages 2\u201381 correspond to printed pages 2\u201381. Text extraction duplicates footer digits.",
+      "models": [],
+      "families": [
+        "P Series",
+        "PRO rental series"
+      ],
+      "applicability": "FG Wilson P Series and PRO rental series of generator sets; individual model applicability must be confirmed from the supplied set documentation.",
+      "controllers": [
+        "PowerWizard 1.1",
+        "PowerWizard 1.1+",
+        "PowerWizard 2.1",
+        "PowerWizard 2.1+",
+        "PowerWizard 4.1",
+        "DeepSea (model unspecified)",
+        "FG100"
+      ],
+      "transfer_panels": [
+        "CTI",
+        "ATI"
+      ],
+      "engines": [
+        "400 Series",
+        "1100 Series",
+        "1500 Series",
+        "2000 Series",
+        "4000 Series",
+        "4008",
+        "4012",
+        "4016",
+        "Perkins 1506",
+        "Perkins 2206",
+        "Perkins 2506",
+        "Perkins 2806"
+      ],
+      "approved": true,
+      "approval_basis": "User explicitly authorized this supplied FG Wilson manual as the V1 source; identity and scope inspected locally. Not manufacturer certification."
+    }
+  ]
+}
