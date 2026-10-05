@@ -1,0 +1,13 @@
+﻿Metadata-Version: 2.4
+Name: AwanSolveAi-fg-wilson-ai
+Version: 1.0.0
+Summary: AwanSolveAi FG Wilson Generator Troubleshooting & Maintenance AI V1
+Requires-Python: >=3.11
+Requires-Dist: pymupdf<2,>=1.24
+Requires-Dist: rank-bm25<1,>=0.2.2
+Requires-Dist: streamlit<2,>=1.36
+Requires-Dist: sentence-transformers<7,>=3
+Requires-Dist: faiss-cpu<2,>=1.8
+Provides-Extra: dev
+Requires-Dist: pytest>=8; extra == "dev"
+

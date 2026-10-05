@@ -1,0 +1,8 @@
+pymupdf<2,>=1.24
+rank-bm25<1,>=0.2.2
+streamlit<2,>=1.36
+sentence-transformers<7,>=3
+faiss-cpu<2,>=1.8
+
+[dev]
+pytest>=8

@@ -1,0 +1,8 @@
+{
+  "process": "source-only script with fixed seed and disjoint source partitions",
+  "source_snapshot_sha256": "b7b7a30f30e4e41ec954a7087d4aaae9adc3653f041c4f67a1b5dc196bb65c64",
+  "batch": 3,
+  "cases": 18,
+  "production_or_benchmark_imports": false,
+  "limitation": "mechanical paraphrases; no independent human generation"
+}

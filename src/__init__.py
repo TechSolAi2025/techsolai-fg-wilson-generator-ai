@@ -1,1 +1,2 @@
-"""TechSolAi FG Wilson Generator Troubleshooting & Maintenance AI V1."""
+﻿"""AwanSolveAi FG Wilson Generator Troubleshooting & Maintenance AI V1."""
+
